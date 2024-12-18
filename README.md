@@ -2,6 +2,8 @@
 OPenDocuSea Project
 Service Name : OpenAry
 
+Service Flow
+![system-flow](https://github.com/user-attachments/assets/b5c21c4f-f3c7-4caf-b9b3-d09352139ff6)
 
 
 #### Minio는 K8S의 전처리될 대상 원본 데이터를 저장함.
